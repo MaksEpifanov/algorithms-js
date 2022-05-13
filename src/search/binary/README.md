@@ -5,8 +5,8 @@ In computer science, **binary search**, also known as **half-interval search**, 
 ![compare linear & binary search](https://res.cloudinary.com/practicaldev/image/fetch/s--PNWqc_R9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gb49p4klebgbtdwijpak.gif)
 
 ## Complexity
-Worst-case performance:	`O(log n)`
-Best-case performance	`O(1)`
+Worst-case performance:	`O(log n)`  
+Best-case performance	`O(1)`  
 Average performance	`O(log n)`
 
 ## References
