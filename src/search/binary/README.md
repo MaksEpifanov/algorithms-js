@@ -11,3 +11,4 @@ Average performance	`O(log n)`
 
 ## References
 - [www.tutorialspoint.com](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm)
+- [www.youtube.com](https://www.youtube.com/watch?v=MFhxShGxHWc)
