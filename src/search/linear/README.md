@@ -7,8 +7,8 @@ Linear search runs in at worst linear time and makes at most `n `comparisons, wh
 ![compare linear & binary search](https://res.cloudinary.com/practicaldev/image/fetch/s--PNWqc_R9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gb49p4klebgbtdwijpak.gif)
 
 ## Complexity
-Worst-case performance:	`O(n)`
-Best-case performance	`O(1)`
+Worst-case performance:	`O(n)`  
+Best-case performance	`O(1)`  
 Average performance	`O(n/2)`
 
 ## References
